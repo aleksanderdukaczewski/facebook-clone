@@ -2,11 +2,11 @@
 
 ## Description
 
-This project is a React JS/Material UI clone of Facebook's main page based on the tutorial from the Youtube channel Clever Programmer, but with changed CSS and a "Contacts" component.
+This project is a React JS/Material UI clone of Facebook's main page based on the tutorial from the Youtube channel Clever Programmer, but with changed CSS and an additional "Contacts" component.
 
 ## Preview
 
-<img src="img/fb-screenshot.png" width="50%"/>
+<img src="img/fb-screenshot.png" width="80%"/>
 
 ## Available Scripts
 
