@@ -1,0 +1,23 @@
+.contact {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.contact:hover {
+    background-color: lightgrey;
+    border-radius: 10px;
+}
+
+.contact > h4 {
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+
+/* .contact__avatar {
+    
+} */
